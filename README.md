@@ -1,5 +1,5 @@
 # UTD-LFG
-Software that can be used to join In-Person games at the UTD Esports Center
+Software that can be used to join in-person games at the UTD Esports Center
 
 # TODO
 1. Implement login/signup page and navigation dashboard
